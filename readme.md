@@ -1,3 +1,6 @@
+Clone of Cody Potter's ascii-commit. All credit to Cody.
+
+--
 # ascii-commit
 
 > dOnt EvEn BoThEr ApplYinG tO ThIs jOb iF yoUr ComMit GraPh doEsN't LoOk LiKe tHiS.
@@ -38,6 +41,5 @@ Make your changes. Use `git commit --amend --no-edit` to make sure the initial c
 ```bash
 git rebase --continue
 ```
-
-
+--
 
